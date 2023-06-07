@@ -1,11 +1,34 @@
-.cabeçalho_menu-hamburger{
-  width:24px;
-    width:24px;
-  background-image:url("../img/Menu.svg");
-  background-repeat:no-repeat
-  background-position:center;
-  display:inline-block
-}
+width: 24px:
 
-.container_botao:checked~.container_rotulo>.cabeçalho_menu-hamburguer{
-  background-image: url("../img/MENU ABERTO.svg")
+cabeçalho_menu-hamburguer
+
+height: 24:
+
+Dheader.css
+
+background-image: url("../img/menu.svg");
+
+
+backgroud repeat:no-repeat: I background-position:center;
+display: inline-block;
+}
+.container botao:checke~.container_rotulo>.cabeçalho_menu-hamburger{backgrount-staq
+}
+.container_botao:checked~container_rotulo{
+background:var(--azul-degrade);
+
+}
+.cabeçalho{
+background-color:var(--branco);
+display:flex;
+Justify-content:space-between;
+align-items:center
+position:relative;
+}
+.container{
+display: flex:
+align-itens:center;
+}
+.container_imagem{
+padding:1em;
+}
