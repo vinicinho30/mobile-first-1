@@ -13,4 +13,11 @@ hr{
     display: flex;
     justify-content: space-around;
   }
-    
+    .lista-rodapé{
+      dispaly:block;
+  }
+  .lista-rodapé__item{
+    display: flex;
+    align-items:center;
+    margin: 0.6e, 0;
+  }
