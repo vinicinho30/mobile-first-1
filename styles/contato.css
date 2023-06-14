@@ -6,4 +6,10 @@
 .contato_titulo,
 .contato_texto{
   background: var(--azul-degrade);
-  -we
+  -webkit-text-fill-color: transparent;
+  background-clip:text;
+}
+.contato__titulo{
+font-size: 18px;
+  font-weight: 500;
+}
