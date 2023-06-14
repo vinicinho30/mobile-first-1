@@ -8,3 +8,9 @@ hr{
    .lista--rodapé{
    display:none;
    }
+@media screen and (min-width: 1024px){
+  .rodapé{
+    display: flex;
+    justify-content: space-around;
+  }
+    
