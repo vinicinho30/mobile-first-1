@@ -21,3 +21,12 @@ hr{
     align-items:center;
     margin: 0.6e, 0;
   }
+.lista-rodapé__link{
+  color: var(--cinza);
+  text-decoration: none;
+  margin-left: 0.6em;
+}
+  .lista-rodapé__titulo{
+    font-size: 14px;
+    color: var(--cinza-claro);
+  }
