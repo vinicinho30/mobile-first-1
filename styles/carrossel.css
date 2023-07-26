@@ -37,3 +37,7 @@
     margin: 1em;
     padding; 1em;
   }
+  .descrição__titulo {
+    color: var(--laranja);
+    font-weight: 700;
+  }
