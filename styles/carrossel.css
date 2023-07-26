@@ -41,3 +41,29 @@
     color: var(--laranja);
     font-weight: 700;
   }
+  .descrição__titulo-livro{
+    color: var(--azul);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em 0;
+  }
+  .descrição__texto
+      font-size: 14px;
+}
+.botões__item{
+  margin: 0 0.5em;
+}
+.botões__ancora{
+  background-color: var(--laranja)
+  padding: 1em 2.2em;
+  color: var(--branco)
+  font-weight: 700;
+  text-decoration: none;
+}
+@media screen and (min-width:1024px)
+.carrossel__título {
+  font-sixe: 26px;
+}
+swiper-pagination {
+  margin: 2em 0 3em 0;
+}
