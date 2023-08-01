@@ -10,7 +10,7 @@
 }
 .banner__texto{
   font-weight:500;
-  margin:1 e 0;
+  margin:1em 0;
 }
   .banner__pesquisa {
 backgroud-color:transparent;
@@ -19,3 +19,6 @@ backgroud-color:transparent;
     color-radius:24px;
     padding:1em;
     width: 100%;
+  }
+.banner__pesquisa::placeholder {
+  background-position
