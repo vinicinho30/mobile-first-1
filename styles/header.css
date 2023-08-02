@@ -129,3 +129,16 @@ padding: 2em 1em;
 
 .lista-menu__item:hover {
   background: var(--azul-degrade);
+}
+
+.lista-menu__item:hover>.lista-menu__link {
+-webkit-text-fill-color: var(--branco);
+  text-decoration:none;
+}
+
+}
+
+@media screen and (min-widht: 1728px) {
+   ,container__link {
+     display: 
+
