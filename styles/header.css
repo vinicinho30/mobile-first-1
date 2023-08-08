@@ -120,7 +120,7 @@ dispaly: block;
 
 .opções__botão: checked~.opções__rotulo>.opções__item {
   background: var(--azul-degrade);
-  color: var(--branco;
+  color: var(--branco);
 }
 
 .opções__item { 
@@ -139,6 +139,26 @@ padding: 2em 1em;
 }
 
 @media screen and (min-widht: 1728px) {
-   ,container__link {
-     display: 
+   .container__link {
+     display: flex;
+
+     align-items: center;
+     text-decoration: none;
+     color: var(--preto);
+   }
+
+  .cabeçalho {
+    padding: 0 2em;
+  }
+
+  .opções {
+    margin-right: auto;
+  }
+
+  .container__texto {
+    display: block;
+  }
+
+}
+  
 
